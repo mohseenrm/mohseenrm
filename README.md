@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a fullstack developer based in Seattle! Founder @ [Athena](https://athenapickleball.io/) <br><br>- 💻 Terminal bound (Zellij + Neovim + Stow)<br>- 🔭 I am working on web-based tooling and building fun Neovim plugins<br>- 📚 I'm currently learning Rust and Lua<br>- ⚡ In my free time, I play pickleball and trying paddleboarding in PNW!</p>
+<p align="left">I'm a fullstack developer based in Seattle! <br /><br />Founder @ <a href="https://athenapickleball.io/" target="_blank">Athena</a> <br><br>- 💻 Terminal bound (Zellij + Neovim + Stow)<br>- 🔭 I am working on web-based tooling and building fun Neovim plugins<br>- 📚 I'm currently learning Rust and Lua<br>- ⚡ In my free time, I play pickleball and trying paddleboarding in PNW!</p>
 
 ###
 
